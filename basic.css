@@ -168,6 +168,7 @@ li {
 	font-family: "forte", monospace;
 	text-align: center;
 	font-size: 80pt;
+	background-size: cover;
 	height: 600px; 
 	width: 100%;
     background-repeat: no-repeat;
